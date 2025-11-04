@@ -21,7 +21,7 @@ Hey! I’m Robert Polishchuk, an Applied Mathematics major with a Computing Scie
 
 ---
 
-
+<!--
 ## 📂 Featured Projects
 
 - 🔹 [Project Name](https://github.com/YOUR_USERNAME/REPO) — short description  
@@ -29,5 +29,6 @@ Hey! I’m Robert Polishchuk, an Applied Mathematics major with a Computing Scie
 - 🔹 [Project Name](https://github.com/YOUR_USERNAME/REPO) — short description  
 
 ---
+--->
 
 Thanks for visiting! ✨
