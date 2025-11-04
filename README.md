@@ -14,36 +14,19 @@ Hey! I’m Robert Polishchuk, an Applied Mathematics major with a Computing Scie
 ## 🛠 Tech Stack
 
 **Languages:** Python, C#, Java, C/C++, HTML/CSS/JavaScript.
+
 **Frameworks & Tools:** Git, TensorFlow, scikit-learn, PyTorch.
+
 **Interests:** Machine Learning, Neural Networks, Data Science, Web Dev
 
 ---
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rpolishchuk3E&show_icons=true&theme=transparent" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpolishchuk3&layout=compact&theme=transparent" />
-</a>
-
----
 
 ## 📂 Featured Projects
 
 - 🔹 [Project Name](https://github.com/YOUR_USERNAME/REPO) — short description  
 - 🔹 [Project Name](https://github.com/YOUR_USERNAME/REPO) — short description  
 - 🔹 [Project Name](https://github.com/YOUR_USERNAME/REPO) — short description  
-
----
-
-## 🏆 Achievements
-
-- ✅ Detail
-- ✅ Detail
-- ✅ Detail
 
 ---
 
