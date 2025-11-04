@@ -1,34 +1,32 @@
 # Welcome to My GitHub! 🚀
 
-Hi there! I'm **YOUR NAME** 👋, a passionate _______ student at the _______.  
-I enjoy building useful software, exploring innovative ideas, and working on projects that make technology more impactful.
+Hey! I’m Robert Polishchuk, an Applied Mathematics major with a Computing Science minor at the University of Alberta. I love building practical software, especially in machine learning models, neural networks, and applying AI to real-world problems.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Currently:** ___-year _____ student at ______
-- 🌱 **Learning:** 
-- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/USERNAME/) | Email: your@email
+- 🎓 **Currently:** 2nd-year Applied Mathematics student at University of Alberta
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/robert-polishchuk/)
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, JavaScript, Java, C, C++  
-**Frameworks & Tools:** React, Node.js, Flask, Git, Linux/macOS  
-**Interests:** Machine Learning, Data Science, Web Dev
+**Languages:** Python, C#, Java, C/C++, HTML/CSS/JavaScript.
+**Frameworks & Tools:** Git, TensorFlow, scikit-learn, PyTorch.
+**Interests:** Machine Learning, Neural Networks, Data Science, Web Dev
 
 ---
 
 ## 📊 GitHub Stats
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rpolishchuk3E&show_icons=true&theme=transparent" />
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpolishchuk3&layout=compact&theme=transparent" />
 </a>
 
 ---
