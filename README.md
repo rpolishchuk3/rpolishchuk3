@@ -14,7 +14,9 @@ Hey! I’m Robert Polishchuk, an Applied Mathematics major with a Computing Scie
 ## 🛠 Tech Stack
 
 **Languages:** Python, C#, Java, C/C++, HTML/CSS/JavaScript.
+
 **Frameworks & Tools:** Git, TensorFlow, scikit-learn, PyTorch.
+
 **Interests:** Machine Learning, Neural Networks, Data Science, Web Dev
 
 ---
