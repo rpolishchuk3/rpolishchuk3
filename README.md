@@ -31,4 +31,4 @@ Hey! I’m Robert Polishchuk, an Applied Mathematics major with a Computing Scie
 ---
 --->
 
-Thanks for visiting! ✨
+Thanks for visiting!
