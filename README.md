@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 🚀
 
-Hey! I’m Robert Polishchuk, an Applied Mathematics major with a Computing Science minor at the University of Alberta. I love building practical software, especially in machine learning models, neural networks, and applying AI to real-world problems.
+Hey! I’m Robert Polishchuk, an Applied Mathematics major with a Computing Science minor at the University of Alberta. I enjoy quantitative analysis, financial modeling and risk assesment using programming tools to model uncertainty, analyze markets and turn raw data into meaningful insights.
 
 ---
 
@@ -13,18 +13,19 @@ Hey! I’m Robert Polishchuk, an Applied Mathematics major with a Computing Scie
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, C#, Java, C/C++, HTML/CSS/JavaScript.
+**Languages:** Python, C#.
 
-**Frameworks & Tools:** Git, TensorFlow, scikit-learn, PyTorch.
+**Frameworks & Tools:** Git, pandas, numpy, matplotlib.
 
-**Interests:** Machine Learning, Neural Networks, Data Science, Web Dev
+**Interests:** Data Analysis, Quantitative Analysis, Risk Modeling, Statistics.
 
 ---
 
-<!--
+
 ## 📂 Featured Projects
 
-- 🔹 [Project Name](https://github.com/YOUR_USERNAME/REPO) — short description  
+- 🔹 [Project Name](https://github.com/YOUR_USERNAME/REPO) — short description
+<!--
 - 🔹 [Project Name](https://github.com/YOUR_USERNAME/REPO) — short description  
 - 🔹 [Project Name](https://github.com/YOUR_USERNAME/REPO) — short description  
 
