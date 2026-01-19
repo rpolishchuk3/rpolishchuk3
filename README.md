@@ -24,7 +24,7 @@ Hey! I’m Robert Polishchuk, an Applied Mathematics major with a Computing Scie
 
 ## 📂 Featured Projects
 
-- 🔹 [Project Name](https://github.com/YOUR_USERNAME/REPO) — short description
+- 🔹 [Monte Carlo Risk Simulation](https://github.com/rpolishchuk3/Monte-Carlo-Risk-Simulation) — A Python-based project that evaluates stock portfolio risk through Monte Carlo simulations.
 <!--
 - 🔹 [Project Name](https://github.com/YOUR_USERNAME/REPO) — short description  
 - 🔹 [Project Name](https://github.com/YOUR_USERNAME/REPO) — short description  
