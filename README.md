@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 🚀
 
-Hey! I’m Robert Polishchuk, an Applied Mathematics major with a Computing Science minor at the University of Alberta. I enjoy quantitative analysis, financial modeling and risk assesment using programming tools to model uncertainty, analyze markets and turn raw data into meaningful insights.
+Hey! I’m Robert Polishchuk, an Applied Mathematics major with a Computing Science minor at the University of Alberta. I enjoy quantitative analysis, actuarial modeling and risk assesment using programming tools to model uncertainty, analyze markets and turn raw data into meaningful insights.
 
 ---
 
