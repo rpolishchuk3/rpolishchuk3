@@ -25,8 +25,8 @@ Hey! I’m Robert Polishchuk, an Applied Mathematics major with a Computing Scie
 ## 📂 Featured Projects
 
 - 🔹 [Monte Carlo Risk Simulation](https://github.com/rpolishchuk3/Monte-Carlo-Risk-Simulation) — A Python-based project that evaluates stock portfolio risk through Monte Carlo simulations.
+- 🔹 [Customer Behavior & Churn Risk Analysis](https://github.com/rpolishchuk3/Customer-Behavior-Churn-Risk-Analysis) — Analyzed customer behavior using SQL and Python to identify churn drivers, estimate churn risk, and communicate insights through clear, business-focused visualizations.
 <!--
-- 🔹 [Project Name](https://github.com/YOUR_USERNAME/REPO) — short description  
 - 🔹 [Project Name](https://github.com/YOUR_USERNAME/REPO) — short description  
 
 ---
