@@ -13,9 +13,9 @@ Hey! I’m Robert Polishchuk, an Applied Mathematics major with a Computing Scie
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, C#.
+**Languages:** Python, SQL, C#, Java.
 
-**Frameworks & Tools:** Git, pandas, numpy, matplotlib.
+**Frameworks & Tools:** Git, pandas, NumPy, matplotlib, Jupyter Notebook.
 
 **Interests:** Data Analysis, Quantitative Analysis, Risk Modeling, Statistics.
 
