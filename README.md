@@ -63,7 +63,7 @@ Practice project combining SQL and Python for data analysis.
 Project focused on quantitative analysis of market risk and business performance.
 - computed key risk and return metrics using Python
 - compared assets to understand volatility and downside risk
-- summarized results in an interactive Tableau dashboard 
+- summarized results in an interactive Tableau dashboard
 🔗 https://github.com/rpolishchuk3/Market-Risk-Business-Performance-Dashboard
 
 ### *Thanks for visiting!*
