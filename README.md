@@ -55,4 +55,4 @@ Practice project combining SQL and Python for data analysis.
 - summarized findings using simple visualizations  
 🔗 https://github.com/rpolishchuk3/Customer-Behavior-Churn-Risk-Analysis
 
-Thanks for visiting!
+## *Thanks for visiting!*
