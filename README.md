@@ -8,6 +8,10 @@ Hey! I’m Robert Polishchuk, an Applied Mathematics major with a Computing Scie
 
 - 🎓 **Currently:** 2nd-year Applied Mathematics student at University of Alberta
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/robert-polishchuk/)
+- 🎯 **Goals:**
+  - gain hands-on experience in data and quantitative analysis
+  - learn how analytical work is done in real-world settings
+  - strengthen practical skills through mentorship and feedback
 
 ---
 
