@@ -11,25 +11,48 @@ Hey! I’m Robert Polishchuk, an Applied Mathematics major with a Computing Scie
 
 ---
 
+## 🔍 What I’m Practicing
+
+Through coursework and personal projects, I practice:
+- cleaning and exploring datasets using Python and SQL
+- performing basic exploratory data analysis (EDA)
+- applying introductory statistical methods and simulations
+- visualizing results to better understand data
+
+---
+
 ## 🛠 Tech Stack
 
-**Languages:** Python, SQL, C#, Java.
+**Programming & Data**
+- Python (pandas, NumPy, matplotlib)
+- SQL (basic joins, aggregations)
+- Jupyter Notebook
 
-**Frameworks & Tools:** Git, pandas, NumPy, matplotlib, Jupyter Notebook.
+**Quant & Statistics (introductory)**
+- Exploratory Data Analysis (EDA)
+- Basic regression concepts
+- Monte Carlo simulation
 
-**Interests:** Data Analysis, Quantitative Analysis, Risk Modeling, Statistics.
+**Tools**
+- Git & GitHub
 
 ---
 
 
 ## 📂 Featured Projects
 
-- 🔹 [Monte Carlo Risk Simulation](https://github.com/rpolishchuk3/Monte-Carlo-Risk-Simulation) — A Python-based project that evaluates stock portfolio risk through Monte Carlo simulations.
-- 🔹 [Customer Behavior & Churn Risk Analysis](https://github.com/rpolishchuk3/Customer-Behavior-Churn-Risk-Analysis) — Analyzed customer behavior using SQL and Python to identify churn drivers, estimate churn risk, and communicate insights through clear, business-focused visualizations.
-<!--
-- 🔹 [Project Name](https://github.com/YOUR_USERNAME/REPO) — short description  
+### 🔹 Monte Carlo Portfolio Risk Simulation
+Learning project focused on understanding uncertainty and risk using simulations.
+- implemented Monte Carlo simulations in Python
+- explored distributions of simulated portfolio returns
+- visualized results to interpret risk behavior  
+🔗 https://github.com/rpolishchuk3/Monte-Carlo-Risk-Simulation
 
----
---->
+### 🔹 Customer Behavior & Churn Risk Analysis
+Practice project combining SQL and Python for data analysis.
+- created and queried a small relational database using SQL
+- performed exploratory data analysis on customer behavior
+- summarized findings using simple visualizations  
+🔗 https://github.com/rpolishchuk3/Customer-Behavior-Churn-Risk-Analysis
 
 Thanks for visiting!
