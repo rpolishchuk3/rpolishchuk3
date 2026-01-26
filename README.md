@@ -20,7 +20,7 @@ Hey! I’m Robert Polishchuk, an Applied Mathematics major with a Computing Scie
 Through coursework and personal projects, I practice:
 - cleaning and exploring datasets using Python and SQL
 - performing basic exploratory data analysis (EDA)
-- applying introductory statistical methods and simulations
+- applying introductory statistical methods and simulations to evaluate risks
 - visualizing results to better understand data
 
 ---
