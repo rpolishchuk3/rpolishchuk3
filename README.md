@@ -28,15 +28,17 @@ Through coursework and personal projects, I practice:
 ## 🛠 Tech Stack
 
 **Programming & Data**
-- Python (pandas, NumPy, matplotlib)
+- Python (pandas, NumPy, matplotlib, scikit-learn)
 - SQL (basic joins, aggregations)
 - Jupyter Notebook
 - Tableau
 
-**Quant & Statistics (introductory)**
-- Exploratory Data Analysis (EDA)
-- Basic regression concepts
-- Monte Carlo simulation
+**Methods & Statistics**
+- Statistical modeling and exploratory data analysis (EDA)
+- Monte Carlo simulation and Geometric Brownian Motion (GBM)
+- Risk metrics: Value at Risk (VaR), Conditional VaR (CVaR), volatility analysis
+- Time-series analysis of financial returns and portfolio performance
+- Machine learning classification (logistic regression)
 
 **Tools**
 - Git & GitHub
@@ -46,19 +48,11 @@ Through coursework and personal projects, I practice:
 
 ## 📂 Featured Projects
 
-### 🔹 Monte Carlo Portfolio Risk Simulation
-Learning project focused on understanding uncertainty and risk using simulations.
-- implemented Monte Carlo simulations in Python
-- explored distributions of simulated portfolio returns
-- visualized results to interpret risk behavior
-
-  🔗 https://github.com/rpolishchuk3/Monte-Carlo-Risk-Simulation
-
 ### 🔹 Customer Behavior & Churn Risk Analysis
-Practice project combining SQL and Python for data analysis.
-- created and queried a small relational database using SQL
-- performed exploratory data analysis on customer behavior
-- summarized findings using simple visualizations
+Data analytics project combining Python, SQL and machine learning to analyze customer behavior and predict churn risk.
+- built a small SQLite database and performed SQL analysis
+- engineered features and trained a logistic regression churn model
+- visualized customer behavior and churn patterns in Python
 
   🔗 https://github.com/rpolishchuk3/Customer-Behavior-Churn-Risk-Analysis
 
@@ -69,5 +63,13 @@ Project focused on quantitative analysis of market risk and business performance
 - summarized results in an interactive Tableau dashboard
 
   🔗 https://github.com/rpolishchuk3/Market-Risk-Business-Performance-Dashboard
+
+### 🔹 Monte Carlo Portfolio Risk Simulation
+Learning project focused on understanding uncertainty and risk using simulations.
+- implemented Monte Carlo simulations in Python
+- explored distributions of simulated portfolio returns
+- visualized results to interpret risk behavior
+
+  🔗 https://github.com/rpolishchuk3/Monte-Carlo-Risk-Simulation
 
 ### *Thanks for visiting!*
