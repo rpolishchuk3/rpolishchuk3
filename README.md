@@ -6,11 +6,11 @@ Hey! I’m Robert Polishchuk, an Applied Mathematics major with a Computing Scie
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Currently:** 2nd-year Applied Mathematics student at University of Alberta
+- 🎓 **Currently:** 3rd-year Statistics student at University of Alberta
 - 🎯 **Goals:**
-  - gain hands-on experience in data and quantitative analysis
-  - learn how analytical work is done in real-world settings
-  - strengthen practical skills through mentorship and feedback
+  - strengthen skills in statistics, data analysis, and programming
+  - apply statistical methods to real-world data through practical projects
+  - continuously learn new tools and techniques to grow as a data-focused professional
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/robert-polishchuk/)
 
 ---
@@ -18,10 +18,10 @@ Hey! I’m Robert Polishchuk, an Applied Mathematics major with a Computing Scie
 ## 🔍 What I’m Practicing
 
 Through coursework and personal projects, I practice:
-- cleaning and exploring datasets using Python and SQL
-- performing basic exploratory data analysis (EDA)
-- applying introductory statistical methods and simulations to evaluate risks
-- visualizing results to better understand data
+- statistical analysis and data interpretation
+- programming in Python for data processing and modeling
+- data cleaning, exploration, and visualization
+- applying mathematical and statistical concepts to real-world problems
 
 ---
 
