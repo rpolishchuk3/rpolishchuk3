@@ -75,6 +75,6 @@ Learning project focused on understanding uncertainty and risk using simulations
 
 
 ### 🔹 Statistical Anomaly Detection for User Authentication
-***! IN PROGRESS... !***
+***! LOADING... !***
 
 ### *Thanks for visiting!*
