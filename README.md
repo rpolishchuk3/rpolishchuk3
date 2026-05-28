@@ -77,7 +77,7 @@ Learning project focused on understanding uncertainty and risk using simulations
 ### 🔹 Statistical Anomaly Detection for User Authentication
   ***! CURRENTLY WORKING ON. LOADING... !***
 
-### 🔹 Diabetes-Prediction-Model
+### 🔹 Diabetes Prediction Model
   ***! CURRENTLY WORKING ON. LOADING... !***
 
 ### *Thanks for visiting!*
