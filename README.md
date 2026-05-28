@@ -28,17 +28,18 @@ Through coursework and personal projects, I practice:
 ## 🛠 Tech Stack
 
 **Programming & Data**
-- Python (pandas, NumPy, matplotlib, scikit-learn)
+- Python (pandas, NumPy, matplotlib, scikit-learn, SQLite)
 - SQL (basic joins, aggregations)
+- MATLAB
 - Jupyter Notebook
 - Tableau
 
 **Methods & Statistics**
-- Statistical modeling and exploratory data analysis (EDA)
-- Monte Carlo simulation and Geometric Brownian Motion (GBM)
-- Risk metrics: Value at Risk (VaR), Conditional VaR (CVaR), volatility analysis
-- Time-series analysis of financial returns and portfolio performance
-- Machine learning classification (logistic regression)
+- Statistical modeling, EDA, and hypothesis testing across structured and time-series datasets
+- Monte Carlo simulation using Geometric Brownian Motion (GBM) and Cholesky decomposition for portfolio risk modeling
+- Risk metrics: Value at Risk (VaR), Conditional VaR (CVaR), annualized volatility, and risk-adjusted return
+- Machine learning classification: logistic regression, Isolation Forest, and unsupervised anomaly detection
+- Mathematical optimization using ODEs and min-max objective functions, including sensitivity and stability analysis
 
 **Tools**
 - Git & GitHub
@@ -71,5 +72,9 @@ Learning project focused on understanding uncertainty and risk using simulations
 - visualized results to interpret risk behavior
 
   🔗 https://github.com/rpolishchuk3/Monte-Carlo-Risk-Simulation
+
+
+### 🔹 Statistical Anomaly Detection for User Authentication
+***IN PROGRESS...***
 
 ### *Thanks for visiting!*
