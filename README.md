@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 🚀
 
-Hey! I’m Robert Polishchuk, an Applied Mathematics major with a Computing Science minor at the University of Alberta. I enjoy quantitative analysis, actuarial modeling and risk assesment using programming tools to model uncertainty, analyze markets and turn raw data into meaningful insights.
+Hey! I’m Robert Polishchuk, a Statistics major with a Computing Science minor at the University of Alberta. I’m interested in statistical modeling, machine learning, and data driven problem solving, with a focus on modeling uncertainty, building predictive systems, and extracting insights from real world data.
 
 ---
 
@@ -8,9 +8,9 @@ Hey! I’m Robert Polishchuk, an Applied Mathematics major with a Computing Scie
 
 - 🎓 **Currently:** 3rd-year Statistics student at University of Alberta
 - 🎯 **Goals:**
-  - strengthen skills in statistics, data analysis, and programming
-  - apply statistical methods to real-world data through practical projects
-  - continuously learn new tools and techniques to grow as a data-focused professional
+  - strengthen foundations in statistical modeling, machine learning, and programming
+  - apply data driven methods to real world problems through practical projects
+  - continuously learn new tools and techniques in data science and computational methods
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/robert-polishchuk/)
 
 ---
@@ -34,15 +34,16 @@ Through coursework and personal projects, I practice:
 - MATLAB
   
 **Methods & Statistics**
-- Data analysis, visualization, and hypothesis testing
-- Probability, distributions, and stochastic processes (e.g., Markov chains)
-- Regression, ANOVA, and statistical modeling
-- Parameter estimation, confidence intervals, and inference
-- Mathematical modeling using differential equations and simulations
+- data analysis, visualization, and hypothesis testing
+- probability, distributions, and stochastic processes (e.g., Markov chains)
+- regression, ANOVA, and statistical modeling
+- parameter estimation, confidence intervals, and inference
+- mathematical modeling using differential equations and simulations
 
 
 **Tools**
 - Git & GitHub
+- Render Dashboard
 - Jupyter Notebook
 - Tableau
 
