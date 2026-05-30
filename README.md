@@ -19,7 +19,7 @@ Hey! I’m Robert Polishchuk, an Applied Mathematics major with a Computing Scie
 
 Through coursework and personal projects, I practice:
 - statistical analysis and data interpretation
-- programming in Python for data processing and modeling
+- programming in Python and SQL for data processing and modeling
 - data cleaning, exploration, and visualization
 - applying mathematical and statistical concepts to real-world problems
 
@@ -30,19 +30,21 @@ Through coursework and personal projects, I practice:
 **Programming & Data**
 - Python (pandas, NumPy, matplotlib, scikit-learn, SQLite)
 - SQL (basic joins, aggregations)
+- HTML, CSS, JavaScript
 - MATLAB
-- Jupyter Notebook
-- Tableau
-
+  
 **Methods & Statistics**
-- Statistical modeling, EDA, and hypothesis testing across structured and time-series datasets
-- Monte Carlo simulation using Geometric Brownian Motion (GBM) and Cholesky decomposition for portfolio risk modeling
-- Risk metrics: Value at Risk (VaR), Conditional VaR (CVaR), annualized volatility, and risk-adjusted return
-- Machine learning classification: logistic regression, Isolation Forest, and unsupervised anomaly detection
-- Mathematical optimization using ODEs and min-max objective functions, including sensitivity and stability analysis
+- Data analysis, visualization, and hypothesis testing
+- Probability, distributions, and stochastic processes (e.g., Markov chains)
+- Regression, ANOVA, and statistical modeling
+- Parameter estimation, confidence intervals, and inference
+- Mathematical modeling using differential equations and simulations
+
 
 **Tools**
 - Git & GitHub
+- Jupyter Notebook
+- Tableau
 
 ---
 
@@ -73,11 +75,10 @@ Learning project focused on understanding uncertainty and risk using simulations
 
   🔗 https://github.com/rpolishchuk3/Monte-Carlo-Risk-Simulation
 
-
-### 🔹 Statistical Anomaly Detection for User Authentication
+### 🔹 Diabetes Prediction Model
   ***! CURRENTLY WORKING ON. LOADING... !***
 
-### 🔹 Diabetes Prediction Model
+### 🔹 Statistical Anomaly Detection for User Authentication
   ***! CURRENTLY WORKING ON. LOADING... !***
 
 ### *Thanks for visiting!*
