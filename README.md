@@ -59,6 +59,14 @@ Data analytics project combining Python, SQL and machine learning to analyze cus
 
   🔗 https://github.com/rpolishchuk3/Customer-Behavior-Churn-Risk-Analysis
 
+### 🔹 Diabetes Prediction Model
+Predict diabetes risk instantly with a clean, end-to-end machine learning web app.
+- built full pipeline from data to model to web app
+- trained Random Forest on 100k plus records with about 90 percent accuracy
+- real time predictions with clear probabilities and simple UI
+
+  🔗 https://github.com/rpolishchuk3/Diabetes-Prediction-Model
+
 ### 🔹 Market Risk & Business Performance Dashboard
 Project focused on quantitative analysis of market risk and business performance.
 - computed key risk and return metrics using Python
@@ -74,9 +82,6 @@ Learning project focused on understanding uncertainty and risk using simulations
 - visualized results to interpret risk behavior
 
   🔗 https://github.com/rpolishchuk3/Monte-Carlo-Risk-Simulation
-
-### 🔹 Diabetes Prediction Model
-  ***! CURRENTLY WORKING ON. LOADING... !***
 
 ### 🔹 Statistical Anomaly Detection for User Authentication
   ***! CURRENTLY WORKING ON. LOADING... !***
