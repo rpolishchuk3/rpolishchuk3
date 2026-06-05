@@ -84,7 +84,5 @@ Learning project focused on understanding uncertainty and risk using simulations
 
   🔗 https://github.com/rpolishchuk3/Monte-Carlo-Risk-Simulation
 
-### 🔹 Statistical Anomaly Detection for User Authentication
-  ***! CURRENTLY WORKING ON. LOADING... !***
 
 ### *Thanks for visiting!*
