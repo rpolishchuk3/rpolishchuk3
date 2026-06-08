@@ -22,6 +22,7 @@ Through coursework and personal projects, I practice:
 - programming in Python and SQL for data processing and modeling
 - data cleaning, exploration, and visualization
 - applying mathematical and statistical concepts to real-world problems
+- understanding how data is represented and computed at a low level (numerical systems, precision, and performance)
 
 ---
 
@@ -30,15 +31,17 @@ Through coursework and personal projects, I practice:
 **Programming & Data**
 - Python (pandas, NumPy, matplotlib, scikit-learn, SQLite)
 - SQL (basic joins, aggregations)
+- C, C#
 - HTML, CSS, JavaScript
 - MATLAB
   
 **Methods & Statistics**
-- data analysis, visualization, and hypothesis testing
-- probability, distributions, and stochastic processes (e.g., Markov chains)
-- regression, ANOVA, and statistical modeling
-- parameter estimation, confidence intervals, and inference
-- mathematical modeling using differential equations and simulations
+- exploratory data analysis, visualization, and hypothesis-driven insights
+- probability theory, distributions, and stochastic modeling (including Markov processes)
+- regression analysis, ANOVA, and predictive statistical modeling
+- parameter estimation, confidence intervals, and statistical inference techniques
+- mathematical modeling using differential equations and computational simulations
+- understanding low-level numerical computation (floating-point representation, precision, rounding, and error analysis) and its impact on statistical modeling
 
 
 **Tools**
@@ -52,15 +55,7 @@ Through coursework and personal projects, I practice:
 
 ## 📂 Featured Projects
 
-### 🔹 Customer Behavior & Churn Risk Analysis
-Data analytics project combining Python, SQL and machine learning to analyze customer behavior and predict churn risk.
-- built a small SQLite database and performed SQL analysis
-- engineered features and trained a logistic regression churn model
-- visualized customer behavior and churn patterns in Python
-
-  🔗 https://github.com/rpolishchuk3/Customer-Behavior-Churn-Risk-Analysis
-
-### 🔹 Diabetes Prediction Model
+### 🧬 Diabetes Prediction Model
 Predict diabetes risk instantly with a clean, end-to-end machine learning web app.
 - built full pipeline from data to model to web app
 - trained Random Forest on 100k plus records with about 90 percent accuracy
@@ -68,7 +63,23 @@ Predict diabetes risk instantly with a clean, end-to-end machine learning web ap
 
   🔗 https://github.com/rpolishchuk3/Diabetes-Prediction-Model
 
-### 🔹 Market Risk & Business Performance Dashboard
+### 🧠 Customer Behavior & Churn Risk Analysis
+Data analytics project combining Python, SQL and machine learning to analyze customer behavior and predict churn risk.
+- built a small SQLite database and performed SQL analysis
+- engineered features and trained a logistic regression churn model
+- visualized customer behavior and churn patterns in Python
+
+  🔗 https://github.com/rpolishchuk3/Customer-Behavior-Churn-Risk-Analysis
+  
+### ⚙️ Float From Scratch (Custom 32-bit Floating Point in C)
+Project focused on low-level implementation of floating-point arithmetic.
+- designed a custom 32-bit floating-point format with modified exponent/mantissa tradeoff
+- implemented conversion, addition, and normalization using bitwise operations
+- replicated core floating-point behavior without using built-in `float` or `double`
+
+  🔗 https://github.com/rpolishchuk3/Float-From-Scratch
+
+### 📈 Market Risk & Business Performance Dashboard
 Project focused on quantitative analysis of market risk and business performance.
 - computed key risk and return metrics using Python
 - compared assets to understand volatility and downside risk
@@ -76,7 +87,7 @@ Project focused on quantitative analysis of market risk and business performance
 
   🔗 https://github.com/rpolishchuk3/Market-Risk-Business-Performance-Dashboard
 
-### 🔹 Monte Carlo Portfolio Risk Simulation
+### 📊 Monte Carlo Portfolio Risk Simulation
 Learning project focused on understanding uncertainty and risk using simulations.
 - implemented Monte Carlo simulations in Python
 - explored distributions of simulated portfolio returns
