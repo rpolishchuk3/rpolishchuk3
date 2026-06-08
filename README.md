@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 🚀
 
-Hey! I’m Robert Polishchuk, a Statistics major with a Computing Science minor at the University of Alberta. I’m interested in statistical modeling, machine learning, and data driven problem solving, with a focus on modeling uncertainty, building predictive systems, and extracting insights from real world data.
+Hey! I’m Robert Polishchuk, a Statistics major with a Computing Science minor at the University of Alberta. I’m interested in statistical modeling, machine learning, and data-driven problem solving, with a focus on modeling uncertainty, building predictive systems, and extracting insights from real-world data. I also enjoy exploring how systems work at a deeper level, combining data-driven approaches with an understanding of low-level computation and numerical representation.
 
 ---
 
