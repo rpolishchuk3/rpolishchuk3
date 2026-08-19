@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 🚀
 
-Hey! I’m Robert Polishchuk, a Computing Science major with a Statistics minor at the University of Alberta. I’m interested in the way systems function at an underlying level through low-level computing, and building from the ground up to really know how they work. Together with my understanding of statistics as a framework for judging the validity of a system or its results, is what makes me gravitate towards machine learning, particularly its engineering aspects.
+Hey! I’m Robert Polishchuk, a Computing Science major with a Statistics minor at the University of Alberta. I’m interested in the way systems function at an underlying level through low-level computing, and building from the ground up to really know how they work. Together with my understanding of statistics as a framework for judging the validity of a system or its results, is what drives me towards machine learning, particularly its engineering aspects.
 
 ---
 
