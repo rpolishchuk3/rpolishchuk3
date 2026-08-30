@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 🚀
 
-Hey! I’m Robert Polishchuk, a Computing Science major with a Mathematics minor at the University of Alberta. I’m interested in the way systems function at an underlying level through low-level computing, and building from the ground up to really know how they work. Together with my understanding of statistics as a framework for judging the validity of a system or its results, is what drives me towards machine learning, particularly its engineering aspects.
+Hey, I'm Robert. I'm a computing science student at the University of Alberta working in low-level systems: computer architecture, instruction set design, and C. My projects so far have been about building things from the bottom up to understand how they actually work, including a 16-bit ISA with its own emulator and assembler, and a floating-point format implemented from bitwise operations with no reliance on float or double. Coursework this year is architecture, operating systems, and robotics. I also work in Python and statistics, mostly for data analysis and ML projects.
 
 ---
 
