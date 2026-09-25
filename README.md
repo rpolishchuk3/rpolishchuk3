@@ -34,13 +34,14 @@ Through coursework and personal projects, I practice:
 - SQL
 - HTML, CSS, JavaScript
 - MATLAB
+
   
-**Methods & Statistics**
-  - exploratory data analysis and confounding/causal reasoning to separate real drivers from misleading correlations
-  - regression analysis and statistical inference for evaluating business and system-level decisions
-  - mathematical modelling using differential equations and computational simulations
-  - applying statistical reasoning to machine learning workflows — feature evaluation, model validation, and interpreting results
-  - understanding low-level numerical computation (floating-point representation, precision, rounding, and error analysis) and its impact on statistical and ML modelling
+**Methods & Systems**
+- Exploratory data analysis and causal reasoning to distinguish meaningful patterns from misleading correlations
+- Regression and quantitative analysis for business and system-level questions
+- Embedded systems and robotics, including kinematic modelling, sensor integration, and odometry
+- Computer architecture, instruction set design, and low-level programming
+- Numerical computing, including floating-point representation, precision, rounding, and error analysis
 
 
 **Tools**
