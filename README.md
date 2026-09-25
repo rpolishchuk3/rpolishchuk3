@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 🚀
 
-Hey, I'm Robert. I'm a computing science student at the University of Alberta working in low-level systems: computer architecture, instruction set design, and C. My projects so far have been about building things from the bottom up to understand how they actually work, including a 16-bit ISA with its own emulator and assembler, and a floating-point format implemented from bitwise operations with no reliance on float or double. Coursework this year is architecture, operating systems, and robotics. I also work in Python and statistics, mostly for data analysis and ML projects.
+Hey, I’m Robert, a third-year Computing Science student at the University of Alberta. I like building systems from the ground up to understand how they work, from a custom 16-bit ISA with its own emulator and assembler to a floating-point format implemented with bitwise operations. I’ve also applied that hands-on approach to robotics: I built a LEGO EV3 differential-drive robot and used kinematic models, wheel encoders, and physical measurements to generate trajectories, calibrate its motion, and evaluate odometry. My coursework includes computer architecture, operating systems, robotics, and software engineering, and I also work with Python and statistics for data analysis and machine learning.
 
 ---
 
@@ -29,7 +29,7 @@ Through coursework and personal projects, I practice:
 ## 🛠 Tech Stack
 
 **Programming & Data**
-- Python (pandas, NumPy, matplotlib, scikit-learn, SQLite)
+- Python (pandas, NumPy, matplotlib, scikit-learn, SQLite, ev3dev2)
 - C/C++, C#
 - SQL
 - HTML, CSS, JavaScript
@@ -62,6 +62,14 @@ Project focused on low-level CPU emulation and instruction set design.
 
   🔗 https://github.com/rpolishchuk3/RIZC-CCI-A-16-bit-Assembly-Interpreter-in-C
 
+### 🤖 Differential-Drive Robot: Kinematic Modelling, Calibration & Odometry
+A LEGO EV3 differential-drive robot that turns kinematic models into measured, real-world motion.
+- generated lemniscate trajectories from real-time curvature, updating wheel speeds every 30 ms
+- calibrated effective track width after test circles traced 7% larger than commanded
+- built 20 Hz encoder odometry, averaging 6.1 cm position error against ground truth
+
+  🔗 https://github.com/rpolishchuk3/ev3-diff-drive-kinematics
+
 ### ⚙️ Float From Scratch (Custom 32-bit Floating Point in C)
 Project focused on low-level implementation of floating-point arithmetic.
 - designed a custom 32-bit floating-point format with modified exponent/mantissa tradeoff
@@ -77,13 +85,5 @@ Predict diabetes risk instantly with a clean, end-to-end machine learning web ap
 - real time predictions with clear probabilities and simple UI
 
   🔗 https://github.com/rpolishchuk3/Diabetes-Prediction-Model
-
-### 🧠 Customer Behavior & Churn Risk Analysis
-Data analytics project combining Python, SQL and machine learning to analyze customer behavior and predict churn risk.
-- built a small SQLite database and performed SQL analysis
-- engineered features and trained a logistic regression churn model
-- visualized customer behavior and churn patterns in Python
-
-  🔗 https://github.com/rpolishchuk3/Customer-Behavior-Churn-Risk-Analysis
 
 ### *Thanks for visiting!*
