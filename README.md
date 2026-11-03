@@ -8,7 +8,7 @@ Hey, I’m Robert, a third-year Computing Science student at the University of A
 
 - 🎓 **Currently:** 3rd-year Computing Science student at University of Alberta
 - 🎯 **Goals:**
-  - improve expertise in computer architecture, instruction set design, and low-level systems programming in C/C++
+  - improve expertise in computer architecture, instruction set design, and low-level systems programming in C
   - build reliable, numerically-sound software by understanding computation at the bit level
   - apply statistical reasoning to validate and interpret real-world data systems, not just build models
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/robert-polishchuk/)
